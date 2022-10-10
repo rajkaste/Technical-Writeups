@@ -1,4 +1,0 @@
-> https://www.datacamp.com/blog/the-path-to-becoming-a-data-engineer?gclid=CjwKCAjw-8qVBhANEiwAfjXLrsvG0LqJQ3UaD5StLUrYK16-jKSXJpmTeujxTSLTs9k3kCIE7m9juhoCyOMQAvD_BwE
-
-> https://www.clairvoyant.ai/blog/big-data-file-formats
-
