@@ -1,0 +1,21 @@
+Following are few blog links for Frontend Dev's:
+
+1. https://www.joshwcomeau.com/
+
+2. https://kentcdodds.com/blog/
+
+3. https://www.robinwieruch.de/blog
+
+4. https://overreacted.io/
+
+5. https://blog.isquaredsoftware.com/
+
+6. https://paulie.dev/
+
+7. https://swizec.com/blog
+
+8. https://mikebifulco.com/posts
+
+9. https://leerob.io/blog
+
+10. https://flaviocopes.com/
