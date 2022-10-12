@@ -1,3 +1,5 @@
 > https://shrirangdiwakar.medium.com/how-a-simple-hey-can-turn-into-your-worst-nightmare-stored-xss-d5a02b136506
 > https://shrirangdiwakar.medium.com/my-first-4-digit-bounty-tragedy-1125-stored-xss-fb171f911df
 > https://shrirangdiwakar.medium.com/encrypted-payload-decrypted-execution-600-stored-xss-3e517cea8f13
+> https://hackerone.com/reports/488147 (Paypal XSS)
+> https://hackerone.com/reports/131450 (Uber XSS)
